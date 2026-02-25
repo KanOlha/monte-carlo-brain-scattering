@@ -1,0 +1,8 @@
+# Specifically ignore your environment folder
+MMC_env/
+
+# General Python ignores
+__pycache__/
+*.py[cod]
+.env
+.vscode/

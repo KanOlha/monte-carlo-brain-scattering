@@ -1,0 +1,14 @@
+# Web Interface
+streamlit==1.52.2
+
+# Numerical Computing & Data Handling
+numpy==2.4.0
+pandas==2.3.3
+
+# Scientific & Statistical Analysis
+# (Required for the Pearson test and Gaussian distribution fitting)
+scipy==1.16.3
+
+# Data Visualization
+matplotlib==3.10.8
+plotly==6.5.0
